@@ -1,0 +1,2 @@
+FileInputStream,FileOutputStream doc/ghi 1 byte 1 luc
+FileReader,FileWriter doc/ghi 2 by 1 luc
