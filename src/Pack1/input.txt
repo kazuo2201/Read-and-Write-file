@@ -1,0 +1,3 @@
+nguyenthanhtung 20 1000
+nguyendinhphong 21 2000
+tranmanhlinh 22 3000
